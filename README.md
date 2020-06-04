@@ -2,6 +2,8 @@
 <h3 style="text-align:center"> Section 01 - Group 04</h3>
 <h3 style="text-align:center"> Project title: Lemniscate Online Tutorials </h3>
 
+![Team](https://github.com/Saikrishna1545/Projectmanagement_final_project/blob/master/Screenshot%20(72).png)
+
 ## Description:
 The primary reason to develop this project is to help viewers or students to get the quality content about process groups and knowledge areas. Lemniscate Online Tutorials project is a user friendly web based application. This application is easy to navigate and provides the student or learner with information that can be accessed from anywhere, anytime. Setting free from time and place constraints.It also allows student to post any questions if they have,so that other people will respond to it if they know the answer.
 <h4> Team name:</h4>  Lemniscate 
